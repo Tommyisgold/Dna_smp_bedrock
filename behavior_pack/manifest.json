@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "DNA SMP - Behavior Pack\nAssigns players random mob abilities controlled by DNA and provides trader/upgrader crafting.",
+    "name": "DNA SMP - Behavior Pack",
+    "uuid": "d3a3f3b2-6f1a-4a1e-9a4e-2f9a5c5b1e11",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 16, 0]
+  },
+  "modules": [
+    {
+      "description": "DNA SMP functions module",
+      "type": "data",
+      "uuid": "a1b2c3d4-5e6f-47a8-9b0c-111213141516",
+      "version": [1, 0, 0]
+    }
+  ]
+}
